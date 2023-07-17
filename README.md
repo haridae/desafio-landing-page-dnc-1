@@ -1,2 +1,2 @@
 - Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1SUzjE1-9wQzXVlhskl5WYlEaq3Ce-IuwTNc05qiWrVw/edit?usp=sharing
-- 
+- Link do site disponibilizado: https://desafiosdnc.netlify.app/
