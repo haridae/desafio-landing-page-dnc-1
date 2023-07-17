@@ -1,0 +1,157 @@
+*{
+   margin: 0;
+    padding: ;
+    font-family: 'Inter';
+    
+
+    
+}
+
+.titulo{
+    background-color: #303030;
+    padding: 100px;
+    align-items: center;
+    
+    
+    
+}
+
+#titulo-projeto{
+    padding: 25px;
+    color: #FFFFFF;
+    font-size: 37px;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-left: -25px;
+    font-family: 'Inter';
+    
+
+    
+}
+
+#subtitulo{
+    color: #FFFFFF;
+    padding: 25px;
+    font-size: 15px;
+    margin-top: -35px;
+    font-family: 'Inter', sans-serif;font-weight: 400;
+    margin-left: -25px;
+}
+
+#dados{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-family: 'Inter';
+    
+}
+
+.dados-titulo{
+
+    font-size: 30px;
+    font-weight: 600;
+}
+
+    
+.dados-texto{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.informacoes-gerais{
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+.informacoes-textoetitulo{
+    align-items: center;
+    padding-top: 180px;
+    padding-left:120px;
+}
+
+#informacoes-titulo{
+    font-size: 32px;
+    font-weight: 500;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#informacoes-texto{
+    font-size: 18px;
+    padding-top:5%; 
+}
+#informacoes-imagem{
+    width: 700px;
+    height: 500px;
+    left: px;
+    padding-top: 40px;
+    
+     
+}
+
+.imagem{
+    width: 450px;
+    height: 490px;
+    left: 976px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    
+}
+.formulario{
+    background-color:#303030;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#titulo-formulario{
+    color: #FFFFFF;
+    font-size: 26px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+input{
+
+    margin: 10px;
+    width: 310px;
+    height: 45px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Inter'; 
+    font-weight: 500;
+    padding-bottom: 5px;
+    padding-left: 10px;
+
+}
+
+button{
+    border: 0px;
+    border-radius: 3px;
+    width: 180px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    background: #C07212;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    margin-bottom: 20px;
+    
+    
+
+}
+button:hover{
+    background-color: #d68d34;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    color: white;
+    box-shadow: 2px 8px 8px #9c5906;
+}
